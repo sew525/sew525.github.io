@@ -1,4 +1,4 @@
-# sew525.github.io
+# Sydney Weaver
 
 Hi! My name is Sydney and I am a journalism student at [Lehigh University](https://www1.lehigh.edu/)
 
