@@ -14,4 +14,4 @@ My LinkedIn page can be found [here!](https://www.linkedin.com/in/sydney-weaver-
 Here is my project on [Lehigh's Student Enrollment.](https://www.canva.com/design/DAFM99eWsik/KvBufwU5FSxxdzbUmELtgQ/edit?utm_content=DAFM99eWsik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 This is an infographic made in Canva to show a small breakdown of the student enrollment in 2021 in Lehigh. The [data](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) was gathered from the Office of Institutional Research & Strategic Analytics.
 
-![infographic]
+![infographic](https://github.com/sew525/sew525.github.io/blob/main/lehigh_student_enrollment_infographic.jpg?raw=true)
