@@ -11,9 +11,14 @@ I am from Honolulu, Hawaii. My passions are communications, specifically being a
 
 My LinkedIn page can be found [here!](https://www.linkedin.com/in/sydney-weaver-b10213220/)
 
-# Infographics
+# Lehigh Student Enrollment
 
 Here is my project on [**Lehigh's Student Enrollment.**](https://www.canva.com/design/DAFM99eWsik/nr0jSlfYoutNs-Fazm57OA/view?utm_content=DAFM99eWsik&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 This is an infographic made in Canva to show a small breakdown of the student enrollment in 2021 in Lehigh. The [data](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf) was gathered from the Office of Institutional Research & Strategic Analytics.
 
 ![infographic](https://github.com/sew525/sew525.github.io/blob/main/Lehigh%20Student%20Enrollment.jpg?raw=true)
+
+# Hawaii Tourism Statistics
+
+Here is an infographic for [Hawaii Tourism in July 2022.](https://www.canva.com/design/DAFNQlDk_SY/xIo89PaTs2bGlffFy0_2uw/view?utm_content=DAFNQlDk_SY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+I was inspired to base this project off Hawaii tourism because that is where I am from and also tourism affects Hawaii residents more than the general population is aware. The [data](https://www.hawaiitourismauthority.org/media/9747/july-2022-visitor-statistic-press-release.pdf) was gathered from the Hawaii Tourism Authority. The HTA releases the [monthly tourism statistics](https://www.hawaiitourismauthority.org/research/monthly-visitor-statistics/) after the month passes and data becomes available. 
