@@ -23,3 +23,6 @@ This is an infographic made in Canva to show a small breakdown of the student en
 Here is an infographic for [Hawaii Tourism in July 2022.](https://www.canva.com/design/DAFNQlDk_SY/xIo89PaTs2bGlffFy0_2uw/view?utm_content=DAFNQlDk_SY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 I was inspired to base this project off Hawaii tourism because that is where I am from and also tourism affects Hawaii residents more than the general population is aware. The [data](https://www.hawaiitourismauthority.org/media/9747/july-2022-visitor-statistic-press-release.pdf) was gathered from the Hawaii Tourism Authority. The HTA releases the [monthly tourism statistics](https://www.hawaiitourismauthority.org/research/monthly-visitor-statistics/) after the month passes and data becomes available. 
 ![hawaiistats](https://github.com/sew525/sew525.github.io/blob/main/Hawaii_tourism_stats.jpg?raw=true)
+
+# Timeline
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
