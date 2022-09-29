@@ -25,4 +25,4 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 ![hawaiistats](https://github.com/sew525/sew525.github.io/blob/main/Hawaii_tourism_stats.jpg?raw=true)
 
 # Timeline
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1u5NAVe7uWgl3Y0KbOi9dlp7prEewBjIn8JU4V4cP7E8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
