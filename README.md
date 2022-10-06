@@ -29,3 +29,7 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 
 # Greek Life Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WUhAybsjON9AidBF8UyFYhAouxxicArOXFlRAfvFHDU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Percent of undergraduates in Lehigh's colleges
+
+![Lehigh chart](username.github.com/repository/img/imagename.jpg)
