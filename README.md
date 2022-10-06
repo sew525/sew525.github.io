@@ -3,6 +3,11 @@
 Hi! My name is Sydney and I am a journalism student at [Lehigh University.](https://www1.lehigh.edu/)
 
 ![profileimage](https://github.com/sew525/sew525.github.io/blob/main/senior%20headshot.JPG?raw=true)
+<img src="http://....jpg" width="200" height="200" />
+![profileimage](https://github.com/sew525/sew525.github.io/blob/main/senior%20headshot.JPG?raw=true)){height="36px" width="36px"}
+![profileimage](https://github.com/sew525/sew525.github.io/blob/main/senior%20headshot.JPG?raw=true)){width=50%}
+![profileimage](https://github.com/sew525/sew525.github.io/blob/main/senior%20headshot.JPG?raw=true) =100x20)
+<img src="(https://github.com/sew525/sew525.github.io/blob/main/senior%20headshot.JPG?raw=true)" alt="profileimage" width="200"/>
 
 # Biography
 **I am a double minor in marketing and theatre.** I will graduate from Lehigh in 2025. I enjoy spending time with my family, friends, and my cat, Bella.
