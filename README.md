@@ -32,4 +32,4 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 
 # Percent of undergraduates in Lehigh's colleges
 
-![Lehigh chart](username.github.com/repository/img/imagename.jpg)
+![Lehigh chart](https://github.com/sew525/sew525.github.io/blob/main/Percent_of_undergraduate_enrollment_in_Lehigh_colleges_Percent_of_undergraduate_enrollment_chartbuilder.png?raw=true)
