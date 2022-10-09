@@ -37,3 +37,6 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 # Percent of undergraduates in Lehigh's colleges
 
 ![Lehigh chart](https://github.com/sew525/sew525.github.io/blob/main/Percent_of_undergraduate_enrollment_in_Lehigh's_colleges_Percent_of_undergraduate_enrollment_chartbuilder.png?raw=true)
+
+# Hawaii Racial Breakdown
+![hawaii race](https://github.com/sew525/sew525.github.io/blob/main/Racial_breakdown_of_Hawaii's_population_Percent_of_population_chartbuilder.png?raw=true)
