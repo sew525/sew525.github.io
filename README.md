@@ -51,3 +51,6 @@ This was an in-class assignment to teach us the differences in bar vs scatterplo
 # GDP per capita and life satisfaction
 This scatterplot graph shows how GDP per capita is directly related to life satisfaction. If your country has a higher GDP average, you are liekly higher on the life satisfaction scale. The [data](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit#gid=0) was provided by our professor since it was an in-class assignment.
 ![GDP graph](https://github.com/sew525/sew525.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction__chartbuilder.png?raw=true)
+
+# Taylor Swift album sales
+I decided to do my personal scatterplot graph on one of my favorite artists, Taylor Swift. She is arguably the biggest artist in the world and has extremely impressive album sales. The [data](https://chartmasters.org/2022/07/taylor-swift-albums-and-songs-sales/) was collected from chartmasters.com.
