@@ -29,16 +29,19 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 
 
 # LeLaf Timeline
+This is an interactive brief history of LeLaf: the longest running college football rivalry in history. This covers some highlights and biggest moments throughout the 150+ years of playing.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1u5NAVe7uWgl3Y0KbOi9dlp7prEewBjIn8JU4V4cP7E8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Greek Life Timeline
+This is an interactive brief history of Lehigh's greek life from the late 1800s to now. I was inspired to focus on greek life because I find it fascinating. It is such a big part of Lehigh's social life and I think it's an interesting topic to cover.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WUhAybsjON9AidBF8UyFYhAouxxicArOXFlRAfvFHDU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Percent of undergraduates in Lehigh's colleges
-
+This graph is an in-class assignment to tecah us how to construct graphs that are easy to read and understand. This graph shows the breakdown of the percentage of students in each of Lehigh's undergraduate colleges.
 ![Lehigh chart](https://github.com/sew525/sew525.github.io/blob/main/Percent_of_undergraduate_enrollment_in_Lehigh's_colleges_Percent_of_undergraduate_enrollment_chartbuilder.png?raw=true)
 
 # Hawaii Racial Breakdown
+I chose to focus this graph on Hawaii's racial breakdown because I love doing research on my home state. The [data](https://www.census.gov/quickfacts/HI) was gathered in the 2021 census.
 ![hawaii race](https://github.com/sew525/sew525.github.io/blob/main/Racial_breakdown_of_Hawaii's_population_Percent_of_population_chartbuilder.png?raw=true)
 
 # Percentage breakdown of Lehigh student body in the three colleges
