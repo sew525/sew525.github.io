@@ -41,5 +41,8 @@ I was inspired to base this project off Hawaii tourism because that is where I a
 # Hawaii Racial Breakdown
 ![hawaii race](https://github.com/sew525/sew525.github.io/blob/main/Racial_breakdown_of_Hawaii's_population_Percent_of_population_chartbuilder.png?raw=true)
 
-#Percentage breakdown of Lehigh student body in the three colleges
+# Percentage breakdown of Lehigh student body in the three colleges
 ![lehigh colleges](https://github.com/sew525/sew525.github.io/blob/main/Percentages_of_students_in_Lehigh's_three_undergraduate_colleges_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+# GDP per capita and life satisfaction
+![GDP graph](https://github.com/sew525/sew525.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction__chartbuilder.png?raw=true)
