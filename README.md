@@ -45,7 +45,9 @@ I chose to focus this graph on Hawaii's racial breakdown because I love doing re
 ![hawaii race](https://github.com/sew525/sew525.github.io/blob/main/Racial_breakdown_of_Hawaii's_population_Percent_of_population_chartbuilder.png?raw=true)
 
 # Percentage breakdown of Lehigh student body in the three colleges
+This was an in-class assignment to teach us the differences in bar vs scatterplot graphs. This scatterplot graph shows that the Arts & Sciences colleges is the biggest college for undergraduates. The business school is currently the smallest college for undergraduates. The [data](https://oirsa.lehigh.edu/university-profile) was collected from the Office of Institutional Research & Strategic Analytics.
 ![lehigh colleges](https://github.com/sew525/sew525.github.io/blob/main/Percentages_of_students_in_Lehigh's_three_undergraduate_colleges_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
 # GDP per capita and life satisfaction
+This scatterplot graph shows how GDP per capita is directly related to life satisfaction. If your country has a higher GDP average, you are liekly higher on the life satisfaction scale. The [data](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit#gid=0) was provided by our professor since it was an in-class assignment.
 ![GDP graph](https://github.com/sew525/sew525.github.io/blob/main/2017_Life_Satisfaction_and_GDP_per_capita_Life_satisfaction__chartbuilder.png?raw=true)
