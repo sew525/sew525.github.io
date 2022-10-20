@@ -58,3 +58,7 @@ I decided to do my personal scatterplot graph on one of my favorite artists, Tay
 
 # Google MyMaps: Top 20 cycling cities
 <iframe src="https://www.google.com/maps/d/embed?mid=11OOy7YoJjY3z7XOj2hBwATQ2EQpfDwE&ehbc=2E312F" width="640" height="480"></iframe>
+
+# Google MyMaps: World's top 10 most beautiful beaches
+For my MyMaps project, I was inspired from my homestate to visually show where the world's most beautiful beaches are. Thank goodness my homestate made the cut! These locations were cut down from an original list of 25 from [Travel + Leisure.](https://www.travelandleisure.com/trip-ideas/beach-vacations/most-beautiful-beaches-in-the-world)
+<iframe src="https://www.google.com/maps/d/embed?mid=12zHzsPRpWKE-Lxz9rT4HuY_BCH1RpXQ&ehbc=2E312F" width="640" height="480"></iframe>
