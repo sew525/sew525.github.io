@@ -57,6 +57,7 @@ I decided to do my personal scatterplot graph on one of my favorite artists, Tay
 ![taylorswift](https://github.com/sew525/sew525.github.io/blob/main/Taylor_Swift_total_album_sales_Sales_chartbuilder.png?raw=true)
 
 # Google MyMaps: Top 20 cycling cities
+This was an in-class activity to help us learn how to use and import data into Google MyMaps. Our [data](https://docs.google.com/spreadsheets/d/1Jiy3z_vPOE5On35mfqFqJWx2_UxfqeCZVteIrqEcXFY/edit?usp=sharing) was provided from the professor.
 <iframe src="https://www.google.com/maps/d/embed?mid=11OOy7YoJjY3z7XOj2hBwATQ2EQpfDwE&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Google MyMaps: World's top 10 most beautiful beaches
