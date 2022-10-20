@@ -55,3 +55,6 @@ This scatterplot graph shows how GDP per capita is directly related to life sati
 # Taylor Swift album sales
 I decided to do my personal scatterplot graph on one of my favorite artists, Taylor Swift. She is arguably the biggest artist in the world and has extremely impressive album sales. The [data](https://chartmasters.org/2022/07/taylor-swift-albums-and-songs-sales/) was collected from chartmasters.com.
 ![taylorswift](https://github.com/sew525/sew525.github.io/blob/main/Taylor_Swift_total_album_sales_Sales_chartbuilder.png?raw=true)
+
+# Google MyMaps: Top 20 cycling cities
+<iframe src="https://www.google.com/maps/d/embed?mid=11OOy7YoJjY3z7XOj2hBwATQ2EQpfDwE&ehbc=2E312F" width="640" height="480"></iframe>
