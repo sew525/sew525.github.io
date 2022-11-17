@@ -80,4 +80,4 @@ I decided to present similar data visualizations for this project because it sho
 
 # Pixton
 We learned all about making comics for one of our last projects. Pixton is a great way to visualize people interacting!
-https://github.com/sew525/sew525.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.28.40%20AM.png?raw=true
+![pixton comic](https://github.com/sew525/sew525.github.io/blob/main/Screen%20Shot%202022-11-17%20at%2011.28.40%20AM.png?raw=true)
