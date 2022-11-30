@@ -33,7 +33,7 @@ This is an interactive brief history of LeLaf: the longest running college footb
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1u5NAVe7uWgl3Y0KbOi9dlp7prEewBjIn8JU4V4cP7E8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Greek Life Timeline
-This is an interactive brief history of Lehigh's greek life from the late 1800s to now. I was inspired to focus on greek life because I find it fascinating. It is such a big part of Lehigh's social life and I think it's an interesting topic to cover.
+This is an interactive brief history of Lehigh's greek life from the late 1800s to now. I was inspired to focus on greek life because I find it fascinating. It is such a big part of Lehigh's social life and I think it's an interesting topic to cover. The timeline I based this project can be accessed [here.](https://www.tjohearn.com/2019/03/14/a-history-of-greek-life-at-lehigh-university/)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1WUhAybsjON9AidBF8UyFYhAouxxicArOXFlRAfvFHDU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Percent of undergraduates in Lehigh's colleges
